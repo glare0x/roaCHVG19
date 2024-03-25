@@ -166,9 +166,9 @@ return (
               </div>
             </div>
 
-            <CountDown
-              time={{ hrs: 4, min: 20, sec: 40 }}
-              text={"Sponsor Now, Race Starts in"}
+            //<CountDown
+              //time={{ hrs: 4, min: 20, sec: 40 }}
+              //text={"Sponsor Now, Race Starts in"}
             />
             <div className="cards">
               {bets.map((bet) => (
